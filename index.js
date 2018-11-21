@@ -7,7 +7,7 @@ const packageVersion = require("./package.json").version;
 
 // Settings for the bot.
 const settings = {
-    botToken: "Mjg5NDE2OTE1OTAwODI1NjAx.DsnV9g.090G6Na1tSgk08S4kF1dCRv7mbE",
+    botToken: "NTE0Nzc5MTI3NjA2NDExMjg0.DtbiIQ.e2-HQEA2eCTGROLQEaSF-vnrXeo",
     guildID: "514137902310227989",
     guildName: "Raided by Wisemar!"
 };
